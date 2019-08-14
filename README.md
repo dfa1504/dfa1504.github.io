@@ -55,4 +55,10 @@ Consolidated financial statements for the national public health care and pensio
 ##### Economista
 *Bogotá, Colombia; Sep 1992 - Jun 1997* 
 
+---
 
+### LANGUAGES
+#### Spanish - Native
+#### English - Proficient
+#### French-Intermediate	
+#### German - Basic
