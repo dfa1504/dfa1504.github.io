@@ -2,8 +2,8 @@
 
 ### Sample Work
 
-#### ABC database
-[Graphs for Financing UNDS Report 2020](https://github.com/dfa1504/dfa1504.github.io/blob/master/Sample%20Graphs%20-%20Financing%20UNDS%20report.xlsx?raw=true "Sample graphs")
+- [Graphs for Financing UNDS Report 2020](https://github.com/dfa1504/dfa1504.github.io/blob/master/Sample%20Graphs%20-%20Financing%20UNDS%20report.xlsx?raw=true "Sample graphs")
+- [Compilation of QCPR Dataset](https://github.com/dfa1504/dfa1504.github.io/blob/master/UNDESA%20Databases.xlsx?raw=true "Sample database")
 
 ### PROFESSIONAL EXPERIENCE
 
