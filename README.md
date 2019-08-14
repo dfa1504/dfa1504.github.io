@@ -5,16 +5,16 @@
 #### UN Multi-Partner Trust Fund Office 
 ##### Data Analyst
 
-*New York, USA; Feb-Jul 2019*
-
-Compiled databases of United Nations system-wide financial data and created data visualizations and statistical tables for the "Financing the United Nations Development System: Time for Hard Choices" report.
+> *New York, USA; Feb-Jul 2019*
+>
+> Compiled databases of United Nations system-wide financial data and created data visualizations and statistical tables for the "Financing the United Nations Development System: Time for Hard Choices" report.
 
 #### ECLAC, Economic Development Division
 ##### Associate Economics Affairs Officer
 
-*Santiago, Chile; Apr-Aug 2010*
-
-Formulated fiscal policy reports for government agencies and intergovernmental organizations and performed analysis for the working paper ‘Tax structure and tax evasion in Latin America’ and the book ‘Decentralisation and Reform in Latin America: Improving Intergovernmental Relations’.
+> *Santiago, Chile; Apr-Aug 2010*
+> 
+> Formulated fiscal policy reports for government agencies and intergovernmental organizations and performed analysis for the working paper ‘Tax structure and tax evasion in Latin America’ and the book ‘Decentralisation and Reform in Latin America: Improving Intergovernmental Relations’.
 
 #### Global Capital Finance
 ##### Associate                                                                 
