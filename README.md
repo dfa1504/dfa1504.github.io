@@ -2,7 +2,10 @@
 
 **PROFESSIONAL EXPERIENCE**
 ### UN Multi-Partner Trust Fund Office 
-#### Data Analyst  
+`New York, USA; FEBRUARY  - JULY 2019`
+#### Data Analyst
+Compiled databases of United Nations system-wide financial data and created data visualizations and statistical tables for the "Financing the United Nations Development System: Time for Hard Choices" report.
+
 
 You can use the [editor on GitHub](https://github.com/dfa1504/dfa1504.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
